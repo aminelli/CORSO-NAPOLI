@@ -13,4 +13,10 @@ MONGO DB data connection:
 
 mongodb://root:Corso2024@52.169.10.167:27017/?tls=false
 
+=== 
+
+Download Azure Data Studio:
+
+https://learn.microsoft.com/it-it/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio
+
 
