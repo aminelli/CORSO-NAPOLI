@@ -2,8 +2,15 @@ Download Microsoft Sql Server Management Studio:
 
 https://learn.microsoft.com/it-it/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms
 
-
 MICROSOFT SQL SERVER data connection:
 url : 52.169.10.167,1433
 usr : sa
 pwd : Corso2024
+
+=====
+
+MONGO DB data connection:
+
+mongodb://root:Corso2024@52.169.10.167:27017/?tls=false
+
+
